@@ -1,0 +1,17 @@
+{
+    "name": "k6d7wcuj/comps",
+    "description": "just test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "K6d7wcuj\\Comps\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "k6d7wcuj"
+        }
+    ],
+    "require": {}
+}
